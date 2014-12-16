@@ -1,0 +1,2 @@
+1. drivers/clk/samsung/clk-s3c64xx.c 
+	s3c6410_clock_aliases: 添加 ALIAS(MEM0_NFCON, "s3c6410-nand", "nand");
